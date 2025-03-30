@@ -1,7 +1,7 @@
 # YimMenu
 
 Experimental menu for GTA 5: Enhanced
-non Experimental menu for GTA 5: Legacy
+& non Experimental menu for GTA 5: Legacy
 
 ## How to use
 
